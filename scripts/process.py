@@ -6,7 +6,7 @@ import os
 import re
 
 # Load YOLOv8 model
-model_path = "runs/detect/train/weights/best.pt"
+model_path = "001/best.pt"
 model = YOLO(model_path)
 
 # Required ID features & confidence thresholds
