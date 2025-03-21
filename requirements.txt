@@ -1,0 +1,11 @@
+opencv-python
+roboflow
+torch
+torchvision
+numpy
+matplotlib
+ultralytics
+pytesseract
+fastapi
+uvicorn
+python-multipart

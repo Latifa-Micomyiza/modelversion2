@@ -1,0 +1,20 @@
+names:
+- Date of birth
+- Gender
+- ID number
+- Names
+- Place of issue
+- coat of arms
+- hologram
+- photo
+- rwandan flag
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: newdataset-qeiw4
+  url: https://universe.roboflow.com/rofand-aaqbf/newdataset-qeiw4/dataset/3
+  version: 3
+  workspace: rofand-aaqbf
+test: ../test/images
+train: ../train/images
+val: ../valid/images
